@@ -41,7 +41,7 @@ Ready for a language-learning journey that feels more like a hangout? Jump into 
 - Technology 1
 - Technology 2
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Speculo-Read-Me)
 
 ---
 
@@ -56,4 +56,4 @@ The section needs to be filled
 - [@abbosjon99](https://github.com/abbosjon99)
 - [@Bexultan-Yermaganbetov](https://github.com/Bexultan-Yermaganbetov)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Speculo-Read-Me)
