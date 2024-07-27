@@ -1,13 +1,9 @@
-
-
 const Landing = () => {
   return (
     <>
-		<div className=''>
-			<div className="font-semibold">
-				HELLO
-			</div>
-		</div>
+      <div className="">
+        <div className="font-semibold">HELLO</div>
+      </div>
     </>
   );
 };
