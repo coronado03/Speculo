@@ -1,7 +1,9 @@
 const Landing = () => {
   return (
     <>
-      <p>Blank Page</p>
+      <div className="">
+        <div className="font-semibold">HELLO</div>
+      </div>
     </>
   );
 };
