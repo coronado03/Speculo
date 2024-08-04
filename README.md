@@ -48,7 +48,7 @@ Ready for a language-learning journey that feels more like a hangout? Jump into 
 ## How To Use
 
 #### Installation
-The section needs to be filled
+The section needs to be filled.
 
 ## Contributors
 
