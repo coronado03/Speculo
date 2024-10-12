@@ -1,7 +1,6 @@
-import { Landing } from "../components";
 
 const LandingPage = () => {
- return <Landing />
+ return <div> HELLO</div>
 };
 
-export default Landing;
+export default LandingPage;
