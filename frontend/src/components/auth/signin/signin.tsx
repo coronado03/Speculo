@@ -1,5 +1,5 @@
 import Button from "../../ui/button";
-import InputForm from "../../ui/input";
+import Input from "../../ui/input";
 
 const SignIn = () => {
   return (
@@ -9,11 +9,11 @@ const SignIn = () => {
           Login to your account
         </div>
         <div className="flex flex-col gap-16">
-          <InputForm inputName="Email" placeHolder="Email" />
-		  <InputForm
+          <Input inputName="Email" placeHolder="Email" />
+          <Input
             inputName="Password"
             placeHolder="Enter your pasword"
-            isPassword={true}
+            isPassword
           />
           <Button label="Log in" />
         </div>

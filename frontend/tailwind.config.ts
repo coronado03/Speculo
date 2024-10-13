@@ -10,10 +10,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "primary-main": "rgba(var(--primary-main))",
         "system-white": "#FCFCFD",
         "system-black": "rgba(16, 24, 40, 1)",
-		"foreground-primary": "rgba(21, 112, 239, 1)",
+        "primary-main": "rgba(var(--primary-main))",
+        "foreground-primary": "rgba(var(--foreground-primary))",
+        "outline-default": "rgba(var(--outline-default))",
+        "outline-primary": "rgba(var(--outline-primary))",
       },
     },
   },
