@@ -2,3 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  :root {
+    --primary-main: 54, 51, 160, 1;
+    --foreground-primary: 21, 112, 239, 1;
+    --outline-default: 208, 213, 221, 1;
+    --outline-primary: 209, 233, 255, 1;
+  }
+}
