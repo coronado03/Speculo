@@ -1,13 +1,13 @@
-import SignUp from "../components/auth/signup/signup";
+import SignIn from "@/src/components/auth/signin/signin";
 
-const LandingPage = () => {
+const SignInPage = () => {
   return (
     <main className="bg-slate-400">
       <div className="w-screen flex justify-center h-[800px] items-center gap-4">
-        <SignUp />
+        <SignIn />
       </div>
     </main>
   );
 };
 
-export default LandingPage;
+export default SignInPage;

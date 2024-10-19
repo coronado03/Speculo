@@ -1,6 +1,6 @@
-import SignUp from "../components/auth/signup/signup";
+import SignUp from "@/src/components/auth/signup/signup";
 
-const LandingPage = () => {
+const SignUpPage = () => {
   return (
     <main className="bg-slate-400">
       <div className="w-screen flex justify-center h-[800px] items-center gap-4">
@@ -10,4 +10,4 @@ const LandingPage = () => {
   );
 };
 
-export default LandingPage;
+export default SignUpPage;
