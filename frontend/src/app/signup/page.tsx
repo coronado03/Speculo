@@ -1,6 +1,6 @@
-import SignUp from "../components/auth/signup/signup";
+import SignUp from "@/src/components/auth/signup/signup";
 
-const LandingPage = () => {
+const SignUpPage = () => {
   return (
     <main className="sign-background flex items-center justify-center h-screen w-screen">
       <SignUp />
@@ -8,4 +8,4 @@ const LandingPage = () => {
   );
 };
 
-export default LandingPage;
+export default SignUpPage;

@@ -22,11 +22,6 @@ const Input = ({
           >
             {inputName}
           </label>
-          {isPassword && (
-            <a href="/" className="text-foreground-primary inline-block">
-              Forgot?
-            </a>
-          )}
         </div>
       )}
       <div>

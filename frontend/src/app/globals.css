@@ -10,3 +10,17 @@
     --outline-primary: 209, 233, 255, 1;
   }
 }
+
+.sign-background {
+  background: radial-gradient(
+      circle at top right,
+      rgba(45, 85, 251, 0.38),
+      transparent 45%
+    ),
+    radial-gradient(
+      circle at bottom left,
+      rgba(45, 85, 251, 0.38),
+      transparent 45%
+    ),
+    #050a24;
+}
