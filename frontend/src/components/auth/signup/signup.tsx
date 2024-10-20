@@ -1,5 +1,6 @@
 import Button from "../../ui/button";
 import Input from "../../ui/input";
+import Link from "next/link";
 
 const SignUp = () => {
   return (
@@ -20,12 +21,12 @@ const SignUp = () => {
         <Button label="Create account" />
         <div className="text-center">
           <span>Already Have An Account?</span>
-          <a
+          <Link
             href="/signin"
             className="text-foreground-primary inline-block pl-2"
           >
             Log in
-          </a>
+          </Link>
         </div>
       </div>
     </div>

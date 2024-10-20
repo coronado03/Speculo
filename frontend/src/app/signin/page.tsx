@@ -2,10 +2,8 @@ import SignIn from "@/src/components/auth/signin/signin";
 
 const SignInPage = () => {
   return (
-    <main className="sign-background">
-      <div className="w-screen flex justify-center h-screen items-center gap-4">
-        <SignIn />
-      </div>
+    <main className="sign-background flex items-center justify-center h-screen w-screen">
+      <SignIn />
     </main>
   );
 };
